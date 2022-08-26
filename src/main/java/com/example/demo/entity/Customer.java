@@ -48,6 +48,6 @@ public class Customer {
 	//adding this line to check jenkin auto build
 	
 	
-	
+	// adding this line to check auto trigger in jenkin
 
 }
